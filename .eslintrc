@@ -35,6 +35,7 @@
     "no-nested-ternary": "off",
     "react/no-array-index-key": "off",
     "no-console": "off",
-    "padded-blocks": "off"
+    "padded-blocks": "off",
+    "react/jsx-filename-extension": "off"
   }
 }
